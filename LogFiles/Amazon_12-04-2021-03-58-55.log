@@ -1,0 +1,6 @@
+2021-04-12 15:59:07,921  INFO [main] Runner:36 - clicking on searchbox done
+2021-04-12 15:59:08,251  INFO [main] Runner:36 - sending keys to searchbox
+2021-04-12 15:59:12,544  INFO [main] Runner:36 - clicking on search button
+2021-04-12 15:59:13,557  INFO [main] Runner:36 - clicked item from list
+2021-04-12 15:59:18,693 ERROR [main] Runner:43 - error in clicking
+2021-04-12 15:59:24,316 ERROR [main] Runner:43 - error in clicking

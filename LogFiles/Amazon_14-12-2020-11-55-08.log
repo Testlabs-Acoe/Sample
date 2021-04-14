@@ -1,0 +1,9 @@
+2020-12-14 23:55:20,751  INFO [main] Runner:36 - clicking on searchbox done
+2020-12-14 23:55:20,911  INFO [main] Runner:36 - sending keys to searchbox
+2020-12-14 23:55:22,533  INFO [main] Runner:36 - clicking on search button
+2020-12-14 23:55:24,389  INFO [main] Runner:36 - clicked item from list
+2020-12-14 23:55:24,848 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-12-14 23:55:24,850 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-12-14 23:55:24,852 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-12-14 23:55:24,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-12-14 23:55:24,882 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/s/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

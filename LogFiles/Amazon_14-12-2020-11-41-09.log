@@ -1,0 +1,33 @@
+2020-12-14 23:41:23,375  INFO [main] Runner:36 - clicking on searchbox done
+2020-12-14 23:41:23,568  INFO [main] Runner:36 - sending keys to searchbox
+2020-12-14 23:41:27,467  INFO [main] Runner:36 - clicking on search button
+2020-12-14 23:41:28,516  INFO [main] Runner:36 - clicked item from list
+2020-12-14 23:41:33,659 ERROR [main] Runner:43 - error in clicking
+2020-12-14 23:41:39,267 ERROR [main] Runner:43 - error in clicking
+2020-12-14 23:41:39,907 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-12-14 23:41:39,911 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-12-14 23:41:39,915 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-12-14 23:41:39,916 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-12-14 23:41:39,917 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/s/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-12-14 23:41:52,343  INFO [main] Runner:36 - Signing in button successfull
+2020-12-14 23:41:52,657  INFO [main] Runner:36 - entering email successfull
+2020-12-14 23:41:53,781  INFO [main] Runner:36 - clicking continue successfull
+2020-12-14 23:41:53,903  INFO [main] Runner:36 - entering password successfull
+2020-12-14 23:41:54,056  INFO [main] Runner:36 - clicking login successfull
+2020-12-14 23:42:14,092  INFO [main] Runner:36 - page verified
+2020-12-14 23:42:14,249 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-12-14 23:42:14,250 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-12-14 23:42:14,251 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-12-14 23:42:14,252 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-12-14 23:42:14,252 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/s/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-12-14 23:42:27,907  INFO [main] Runner:36 - Signing in button successfull
+2020-12-14 23:42:28,123  INFO [main] Runner:36 - entering email successfull
+2020-12-14 23:42:29,242  INFO [main] Runner:36 - clicking continue successfull
+2020-12-14 23:42:29,497  INFO [main] Runner:36 - entering password successfull
+2020-12-14 23:42:29,634  INFO [main] Runner:36 - clicking login successfull
+2020-12-14 23:42:49,690  INFO [main] Runner:36 - page verified
+2020-12-14 23:42:49,863 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-12-14 23:42:49,864 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-12-14 23:42:49,865 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-12-14 23:42:49,868 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-12-14 23:42:49,869 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/s/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
